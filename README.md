@@ -25,9 +25,3 @@ This is a full-stack web application that allows users to register as **System A
 - Form validations (Name, Email, Password, Address)  
 - Sorting and filtering on tables
 
-## Getting Started
-
-### Backend
-1. Navigate to the backend folder:
-   ```bash
-   cd backend
